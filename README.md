@@ -15,7 +15,7 @@ Projeto de um jogo de luta criado com Javascript, HTML, CSS. Utilizando classes 
 - ``VSCode``
 
 ## 📽️ Necessário para executar o projeto
-É necessário apenas abaixar as últimas atuaizações e executar o arquivo index.html
+É necessário apenas baixar as últimas atuaizações e executar o arquivo index.html
 
 ## 📁 Acesso ao projeto
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/Theuraim/fighting-game).
